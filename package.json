@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^2.0.72",
-    "@lmnr-ai/lmnr": "^0.7.9",
+    "@lmnr-ai/lmnr": "^0.8.23",
     "ai": "^5.0.102",
     "dotenv": "^17.2.3",
     "ink": "^6.5.1",
